@@ -1,0 +1,4 @@
+data_path:
+  SUITE: imgnet_config
+  ARTIFACTS: artifacts
+  SECTION: classification
