@@ -1,4 +1,4 @@
-# imgnet-Package IN PROGRESS
+# imgnet-Package
 
 ## About Imgnet
 
